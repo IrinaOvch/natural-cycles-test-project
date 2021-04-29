@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/natural-cycles-test-project/static/css/main.9146e1af.chunk.css",
+    "main.js": "/natural-cycles-test-project/static/js/main.09c932b1.chunk.js",
+    "main.js.map": "/natural-cycles-test-project/static/js/main.09c932b1.chunk.js.map",
+    "runtime-main.js": "/natural-cycles-test-project/static/js/runtime-main.1c2cd5e0.js",
+    "runtime-main.js.map": "/natural-cycles-test-project/static/js/runtime-main.1c2cd5e0.js.map",
+    "static/js/2.95981315.chunk.js": "/natural-cycles-test-project/static/js/2.95981315.chunk.js",
+    "static/js/2.95981315.chunk.js.map": "/natural-cycles-test-project/static/js/2.95981315.chunk.js.map",
+    "static/js/3.a6027e31.chunk.js": "/natural-cycles-test-project/static/js/3.a6027e31.chunk.js",
+    "static/js/3.a6027e31.chunk.js.map": "/natural-cycles-test-project/static/js/3.a6027e31.chunk.js.map",
+    "index.html": "/natural-cycles-test-project/index.html",
+    "static/css/main.9146e1af.chunk.css.map": "/natural-cycles-test-project/static/css/main.9146e1af.chunk.css.map",
+    "static/js/2.95981315.chunk.js.LICENSE.txt": "/natural-cycles-test-project/static/js/2.95981315.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2cd5e0.js",
+    "static/js/2.95981315.chunk.js",
+    "static/css/main.9146e1af.chunk.css",
+    "static/js/main.09c932b1.chunk.js"
+  ]
+}
