@@ -22,7 +22,7 @@ export const getQueryStrValue = (
 
   const value = values[key]
 
-  if (value === null) return ''
+  if (!value) return ''
   if (!isNaN(Number(value))) Number(value)
 
   return values[key]
