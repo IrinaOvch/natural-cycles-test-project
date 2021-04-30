@@ -17,6 +17,7 @@ function useFitText({
   const spanRef = useRef<HTMLSpanElement>(null)
   const [fontSize, setFontSize] = useState(initialFontSize)
 
+  // this useEffect decreases font-size
   useEffect(() => {
     const applyFontSize = () => {
       const spanElWidth = spanRef?.current?.offsetWidth
@@ -41,6 +42,7 @@ function useFitText({
     applyFontSize()
   }, [inputValue, rangeInputValue, fontSize])
 
+  // this useEffect increases font-size
   useEffect(() => {
     const applyFontSize = () => {
       const spanElWidth = spanRef?.current?.offsetWidth
